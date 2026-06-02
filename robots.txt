@@ -1,9 +1,0 @@
-# robots.txt for Dr. Siddharth's Dental Care
-# https://drsiddharthsdentalcare-del.github.io/drsiddharthsdentalcare/
-
-# Allow all search engine crawlers
-User-agent: *
-Allow: /
-
-# Sitemap location
-Sitemap: https://drsiddharthsdentalcare-del.github.io/drsiddharthsdentalcare/sitemap.xml
