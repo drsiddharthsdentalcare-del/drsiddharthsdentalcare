@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://drsiddharthsdentalcare-del.github.io/drsiddharthsdentalcare/sitemap.xml
