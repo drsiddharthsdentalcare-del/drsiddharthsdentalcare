@@ -1,7 +1,0 @@
-# robots.txt — Dr. Siddharth's Dental Care
-# https://drsiddharthsdentalcare-del.github.io/drsiddharthsdentalcare/
-
-User-agent: *
-Allow: /
-
-Sitemap: https://drsiddharthsdentalcare-del.github.io/drsiddharthsdentalcare/sitemap.xml
